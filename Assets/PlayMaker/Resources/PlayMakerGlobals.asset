@@ -63,3 +63,5 @@ MonoBehaviour:
   events:
   - click
   - move
+  - Sei stato grabbato
+  - Rilascio
