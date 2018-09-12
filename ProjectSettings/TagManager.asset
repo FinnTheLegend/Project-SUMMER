@@ -9,6 +9,10 @@ TagManager:
   - Sassi
   - Cassa On
   - Cassa Off
+  - Cassa
+  - Cassa 1
+  - Cassa 2
+  - Cassa 3
   layers:
   - Default
   - TransparentFX
