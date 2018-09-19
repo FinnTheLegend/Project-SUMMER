@@ -13,6 +13,7 @@ TagManager:
   - Cassa 1
   - Cassa 2
   - Cassa 3
+  - Piattaforma Mobile
   layers:
   - Default
   - TransparentFX
