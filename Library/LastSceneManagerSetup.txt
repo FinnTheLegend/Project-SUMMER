@@ -1,7 +1,4 @@
 sceneSetups:
-- path: Assets/Compa test/Enigmi.unity
+- path: Assets/Scena Nico.unity
   isLoaded: 1
   isActive: 1
-- path: Assets/Tutorial.unity
-  isLoaded: 0
-  isActive: 0
