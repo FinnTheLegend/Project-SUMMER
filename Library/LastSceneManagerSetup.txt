@@ -1,4 +1,7 @@
 sceneSetups:
-- path: Assets/Negazione.unity
+- path: Assets/Compa test/Enigmi.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/Tutorial.unity
+  isLoaded: 0
+  isActive: 0
