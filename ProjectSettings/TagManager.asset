@@ -14,6 +14,7 @@ TagManager:
   - Cassa 2
   - Cassa 3
   - Piattaforma Mobile
+  - Water
   layers:
   - Default
   - TransparentFX

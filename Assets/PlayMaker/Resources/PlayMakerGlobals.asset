@@ -32,9 +32,21 @@ MonoBehaviour:
       networkSync: 0
       value: 0
     intVariables: []
-    boolVariables: []
+    boolVariables:
+    - useVariable: 1
+      name: PienaD'Acqua?
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
     stringVariables: []
-    vector2Variables: []
+    vector2Variables:
+    - useVariable: 1
+      name: PosSpinta
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {x: 0, y: 0}
     vector3Variables: []
     colorVariables:
     - useVariable: 1
@@ -89,7 +101,7 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+    variableCategoryIDs: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   events:
   - click
   - move
