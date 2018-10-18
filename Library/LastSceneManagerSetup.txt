@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Negazione.unity
+- path: Assets/Scena Nico.unity
   isLoaded: 1
   isActive: 1
