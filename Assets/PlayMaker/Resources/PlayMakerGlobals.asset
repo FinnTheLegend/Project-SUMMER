@@ -38,7 +38,13 @@ MonoBehaviour:
       networkSync: 0
       value: 0
     intVariables: []
-    boolVariables: []
+    boolVariables:
+    - useVariable: 1
+      name: PienaD'acqua?
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 1
     stringVariables: []
     vector2Variables: []
     vector3Variables: []
@@ -95,7 +101,7 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    variableCategoryIDs: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   events:
   - click
   - move
@@ -108,3 +114,10 @@ MonoBehaviour:
   - Check cassa
   - Piattaforma in
   - Piattaforma out
+  - Dolore
+  - Arrivato?
+  - Attendi
+  - Attendi1
+  - Fine
+  - Dentro
+  - Attendi2
