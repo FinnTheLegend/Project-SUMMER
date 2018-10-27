@@ -12,9 +12,13 @@ TagManager:
   - Cassa
   - Cassa 1
   - Cassa 2
-  - Cassa 3
   - Piattaforma Mobile
   - Water
+  - Anfora
+  - Anfora 1
+  - Anfora 2
+  - Anfora Off
+  - Anfora On
   layers:
   - Default
   - TransparentFX
