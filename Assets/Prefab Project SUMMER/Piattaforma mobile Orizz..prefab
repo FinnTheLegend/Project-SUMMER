@@ -39,8 +39,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1529770158996174}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 66.04, y: 6, z: 0}
-  m_LocalScale: {x: 1.94469, y: 1.4568204, z: 1}
+  m_LocalPosition: {x: 222, y: 3.207, z: 0}
+  m_LocalScale: {x: 1.95, y: 1.15, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -200,7 +200,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 5
+          value: 3.7
         - useVariable: 0
           name: 
           tooltip: 
@@ -270,7 +270,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: {x: 92, y: 6, z: 0}
+          value: {x: 212, y: 3.207, z: 0}
         - useVariable: 1
           name: 
           tooltip: 
@@ -364,7 +364,7 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 1
+    preprocessed: 0
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
