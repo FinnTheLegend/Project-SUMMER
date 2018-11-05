@@ -4,4 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Tutorial.unity
+    guid: e20a5d139d401ae41a8110cd1fc2d0a0
+  - enabled: 1
+    path: Assets/Negazione.unity
+    guid: 2090fe6ff49b97f408f097260ee50a63
+  - enabled: 1
+    path: Assets/Rabbia.unity
+    guid: 25f3d96ed4f4df54fad653d93e3bb513
